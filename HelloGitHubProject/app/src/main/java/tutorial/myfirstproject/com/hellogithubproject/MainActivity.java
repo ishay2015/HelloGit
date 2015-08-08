@@ -19,6 +19,10 @@ public class MainActivity extends Activity {
 
     public void clickMe_onClick(View view) {
         Toast.makeText(getBaseContext(),"Toast",Toast.LENGTH_SHORT).show();
+<<<<<<< HEAD
         Toast.makeText(getBaseContext(),"Toast From laptop",Toast.LENGTH_SHORT).show();
+=======
+        Toast.makeText(getBaseContext(),"Toast From Arixa",Toast.LENGTH_SHORT).show();
+>>>>>>> bf98dfdda2eb59de2e391d51b7e72af7c88c944a
     }
 }
