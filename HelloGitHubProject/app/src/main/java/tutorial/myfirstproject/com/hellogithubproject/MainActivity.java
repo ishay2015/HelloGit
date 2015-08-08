@@ -21,6 +21,10 @@ public class MainActivity extends Activity {
         Toast.makeText(getBaseContext(),"Toast",Toast.LENGTH_SHORT).show();
         Toast.makeText(getBaseContext(),"Toast From laptop",Toast.LENGTH_SHORT).show();
         Toast.makeText(getBaseContext(),"Toast From Arixa",Toast.LENGTH_SHORT).show();
+<<<<<<< HEAD
         Toast.makeText(getBaseContext(),"Toast From laptop2",Toast.LENGTH_SHORT).show();
+=======
+        Toast.makeText(getBaseContext(),"Toast From Arixa2",Toast.LENGTH_SHORT).show();
+>>>>>>> d87b8bf6bbe8937c4a79a9a8313f40a9ae988461
     }
 }
